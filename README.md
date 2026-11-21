@@ -44,7 +44,7 @@ https://huggingface.co/datasets/bitext/Bitext-customer-support-llm-chatbot-train
 Best model: Multinomial Naive Bayes (highest scores, fast, gives probabilities).
 The Dummy model always predicts ACCOUNT, so it has no useful confusion pair.
 
-![Naive Bayes confusion matrix]([../outputs/cm_MultinomialNB.jpg])
+![MultinomialNB Confusion Matrix](outputs/cm_MultinomialNB.png)
 
 ## Key findings
 - All four models are far above the 9.1% baseline (chance level for 11 classes).
