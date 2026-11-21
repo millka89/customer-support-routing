@@ -1,0 +1,6 @@
+Model,Accuracy,Weighted F1,10-fold CV acc.,Most confused pair
+Dummy (baseline),0.091,0.015,0.091,ACCOUNT / SUBSCRIPTION (40 errors)
+MultinomialNB,0.995,0.995,0.986,ACCOUNT / SHIPPING (1 errors)
+DecisionTree,0.941,0.942,0.946,CONTACT / ORDER (5 errors)
+RandomForest,0.986,0.986,0.982,FEEDBACK / REFUND (1 errors)
+KNN (k=5),0.984,0.984,0.975,REFUND / SUBSCRIPTION (2 errors)

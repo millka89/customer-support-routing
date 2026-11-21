@@ -1,0 +1,12 @@
+,0
+ACCOUNT,"['account', 'type', 'signup', 'category', 'standard', 'profile', 'on', 'use']"
+CANCEL,"['early', 'termination', 'withdrawal', 'fees', 'fee', 'exit', 'charge', 'cancellation']"
+CONTACT,"['customer', 'speak', 'hours', 'agent', 'talk', 'support', 'contact', 'call']"
+DELIVERY,"['arrive', 'soon', 'expect', 'when', 'options', 'shipment', 'delivery', 'shipping']"
+FEEDBACK,"['feedback', 'against', 'claim', 'leave', 'complaint', 'lodge', 'consumer', 'file']"
+INVOICE,"['bill', 'name', 'invoice', 'person', 'download', '00108', 'from', '37777']"
+ORDER,"['order', 'number', 'purchase', 'some', 'several', 'articles', 'status', 'items']"
+PAYMENT,"['payment', 'payments', 'online', 'options', 'with', 'list', 'accepted', 'inform']"
+REFUND,"['money', 'refund', 'reimbursement', 'in', 'cases', 'request', 'rebate', 'back']"
+SHIPPING,"['address', 'delivery', 'shipping', 'set', 'up', 'new', 'secondary', 'update']"
+SUBSCRIPTION,"['newsletter', 'subscription', 'corporate', 'unsubscribe', 'company', 'receive', 'cancel', 'your']"
