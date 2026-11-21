@@ -3,7 +3,7 @@
 Project for AI for Business. A machine-learning model reads a customer
 message and predicts its topic, so it can go to the right team or chatbot.
 
-Full report: `report/Project1_report.docx`
+Full report: `report/Project_report.docx`
 
 ## Goal
 Sorting support messages by hand is slow and causes mistakes. Customers wait
@@ -44,7 +44,7 @@ https://huggingface.co/datasets/bitext/Bitext-customer-support-llm-chatbot-train
 Best model: Multinomial Naive Bayes (highest scores, fast, gives probabilities).
 The Dummy model always predicts ACCOUNT, so it has no useful confusion pair.
 
-![Naive Bayes confusion matrix](../outputs/cm_MultinomialNB.jpg)
+![Naive Bayes confusion matrix]([../outputs/cm_MultinomialNB.jpg])
 
 ## Key findings
 - All four models are far above the 9.1% baseline (chance level for 11 classes).
@@ -111,7 +111,7 @@ Requires Python 3.10+. Packages: pandas, scikit-learn, matplotlib, seaborn, ipyk
 differences, not exact real-world accuracy.
 
 ## Report and figures
-- Full report: `report/Project1_report.docx`
+- Full report: `report/Project_report.docx`
 - Confusion matrices: `outputs/cm_*.jpg`
 
 ## Licence
