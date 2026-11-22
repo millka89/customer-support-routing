@@ -82,15 +82,22 @@ confirm the suggestion.
 - Human control: customers can always reach an agent.
 
 ## Repository structure
-├── data/customer_support.csv
-├── notebooks/project1.ipynb
+├── ## Repository structure
+
+```text
+├── data/
+│   └── customer_support.csv
+├── notebooks/
+│   └── project1.ipynb
 ├── outputs/
-│ ├── results.csv
-│ ├── top_words.csv
-│ └── cm_*.jpg confusion matrices
-├── report/Project1_report.docx
+│   ├── results.csv
+│   ├── top_words.csv
+│   └── cm_*.png confusion matrices
+├── report/
+│   └── Project1_report.docx
 ├── requirements.txt
 └── README.md
+```
 
 ## How to run
 1. Clone the repo and open the folder in VS Code.
