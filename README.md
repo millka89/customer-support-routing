@@ -93,7 +93,7 @@ confirm the suggestion.
 │   ├── top_words.csv
 │   └── cm_*.png confusion matrices
 ├── report/
-│   └── Project1_report.docx
+│   └── Project_report.docx
 ├── requirements.txt
 └── README.md
 ```
@@ -119,6 +119,9 @@ differences, not exact real-world accuracy.
 ## Report and figures
 - Full report: `report/Project_report.docx`
 - Confusion matrices: `outputs/cm_*.jpg`
+
+## Use of AI tools
+Perplexity was used for help with the project structure and language editing; see section 9 of the report.
 
 ## Licence
 Code: MIT (see `LICENSE`). Data: CDLA-Sharing-1.0 (Bitext).
