@@ -82,7 +82,6 @@ confirm the suggestion.
 - Human control: customers can always reach an agent.
 
 ## Repository structure
-├── ## Repository structure
 
 ```text
 ├── data/
